@@ -1,15 +1,26 @@
-# Stuart Lance Richards-Weir
+<h1 align="center">Hi, I'm Stuart 👋</h1>
 
-**Computer Engineering student focused on platform engineering, distributed systems, and infrastructure.**  
-Soon-to-graduate engineer based in Barcelona, with experience building production software in enterprise environments and a strong academic foundation in computer science, mathematics, and physics.
+<h3 align="center">
+  Computer Engineering student focused on Platform Engineering, Distributed Systems and Infrastructure
+</h3>
 
-I am especially interested in backend systems, platform engineering, distributed infrastructure, data-intensive systems, and the engineering practices required to build reliable software at scale.
+<p align="center">
+  <a href="mailto:richardsweir.stuart@gmail.com">
+    <img src="https://img.shields.io/badge/Email-richardsweir.stuart%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Stuart%20Richards--Weir-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="./Stuart_Richards-Weir_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-111111?style=flat-square&logo=readme&logoColor=white" />
+  </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=StuartLance&color=brightgreen)
 
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
 - Incoming **Software Development Engineer Intern at Amazon**, joining the Payroll Platform Engineering team in Barcelona.
 - Software Engineer Intern at **Dynatrace**, working with React, TypeScript, telemetry data visualisation, and performance-sensitive frontend systems.
@@ -18,7 +29,7 @@ I am especially interested in backend systems, platform engineering, distributed
 
 ---
 
-## Technical Interests
+## 🧠 Technical Interests
 
 I am currently shaping my engineering profile around:
 
@@ -33,7 +44,7 @@ I am currently shaping my engineering profile around:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <h3>Languages</h3>
 <p>
@@ -78,7 +89,7 @@ I am currently shaping my engineering profile around:
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Amazon - Incoming Software Development Engineer Intern
 **Payroll Platform Engineering | Barcelona | July 2026 - December 2026**
@@ -111,7 +122,7 @@ Highlights:
 
 ---
 
-## Selected Projects
+## 📌 Selected Projects
 
 ### Distributed Data Storage System
 Python-based HDFS-style client-server system for distributed data storage and retrieval.
@@ -164,7 +175,7 @@ Planned focus areas:
 
 ---
 
-## Education
+## 🎓 Education
 
 **B.Sc. Computer Engineering**  
 Universitat Pompeu Fabra, Barcelona  
@@ -183,7 +194,7 @@ Completed 2 years of a 3-year course, 2020-2022
 
 ---
 
-## Connect
+## 📫 Connect
 
 - LinkedIn: [linkedin.com/in/stuart-lance-richards-weir](https://www.linkedin.com/in/stuart-lance-richards-weir/)
 - Email: [richardsweir.stuart@gmail.com](mailto:richardsweir.stuart@gmail.com)
