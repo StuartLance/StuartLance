@@ -8,7 +8,7 @@
   <a href="mailto:richardsweir.stuart@gmail.com">
     <img src="https://img.shields.io/badge/Email-richardsweir.stuart%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/stuart-lance-richards-weir/">
     <img src="https://img.shields.io/badge/LinkedIn-Stuart%20Richards--Weir-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="./Stuart_Richards-Weir_CV.pdf">
