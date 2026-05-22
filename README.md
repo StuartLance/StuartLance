@@ -35,20 +35,46 @@ I am currently shaping my engineering profile around:
 
 ## Tech Stack
 
-### Languages
-`Java` · `TypeScript` · `JavaScript` · `Python` · `C` · `C++` · `SQL` · `Bash`
+<h3>Languages</h3>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
 
-### Backend, Systems & Infrastructure
-`REST APIs` · `HTTP` · `Service-to-service communication` · `Data modelling` · `Microservices` · `API contracts`
+<h3>Backend, Platform & Infrastructure</h3>
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img alt="Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img alt="HDFS" src="https://img.shields.io/badge/-HDFS-66CCFF?style=flat-square&logo=apache&logoColor=black" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/-REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
-### Distributed & Data Systems
-`AWS` · `Kafka` · `Spark` · `Docker` · `HDFS` · `MapReduce`
+<h3>Frontend & Product Engineering</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45B8D8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Data Visualisation" src="https://img.shields.io/badge/-Data%20Visualisation-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img alt="Dashboards" src="https://img.shields.io/badge/-Dashboards-7B42BC?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Telemetry" src="https://img.shields.io/badge/-Telemetry-1496FF?style=flat-square&logo=opentelemetry&logoColor=white" />
+</p>
 
-### Frontend & Product Engineering
-`React` · `TypeScript` · `Data visualisation` · `Interactive dashboards` · `Telemetry UI`
-
-### Tools
-`Git` · `Linux` · `Docker` · `Eclipse` · `Visual Studio`
+<h3>Tools & Workflow</h3>
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
+</p>
 
 ---
 
