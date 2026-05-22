@@ -5,6 +5,8 @@ Soon-to-graduate engineer based in Barcelona, with experience building productio
 
 I am especially interested in backend systems, platform engineering, distributed infrastructure, data-intensive systems, and the engineering practices required to build reliable software at scale.
 
+![](https://komarev.com/ghpvc/?username=StuartLance&color=brightgreen)
+
 ---
 
 ## Current Focus
