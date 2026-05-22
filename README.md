@@ -157,5 +157,5 @@ Completed 2 years of a 3-year course, 2020-2022
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/stuart-lance-richards-weir/)
+- LinkedIn: [linkedin.com/in/stuart-lance-richards-weir](https://www.linkedin.com/in/stuart-lance-richards-weir/)
 - Email: [richardsweir.stuart@gmail.com](mailto:richardsweir.stuart@gmail.com)
